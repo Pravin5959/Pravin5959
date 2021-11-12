@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pravin5959
-- 👀 I’m interested in different concepts of Deep learning
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on AI music projects
+- 👀 I’m interested in Backend Engineering
+- 🌱 I’m currently learning DSA in deph
+- 💞️ I’m looking to partner to learn and grow and collaboration for projects
 - 📫 How to reach me - pravinyadav5959@gmail.com
 
 <!---
