@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pravin5959
-- 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning low level deisgn
-- 💞️ I’m looking to partner to learn and grow and collaboration for projects
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning streaming analytics and functional programming
+- 💞️ I’m looking for a partner to learn and grow by collaboration in projects
 - 📫 How to reach me - pravinyadav5959@gmail.com
 
 <!---
